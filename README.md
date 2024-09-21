@@ -71,7 +71,8 @@ The Traffic Flow Optimization And Congestion Management project aims to revoluti
 - Abhishek Yadav : [Abhi8459](https://github.com/Abhi8459)
 - Aditya Jadhav :  [Adityasgithubtech](https://github.com/Adityasgithubtech)
 - Akanksha Jaiswal : [akanksha-wd](https://github.com/akanksha-wd?tab=overview&from=2024-08-01&to=2024-08-31)
-
+- Amara Shaikh : [amara0003](https://github.com/amara0003)
+- Raj Joshi : [Rajtilakjoshi](https://github.com/Rajtilakjoshi)
 ### License:
 ## Project License
 - License Type: The project is licensed under the [MIT License](LICENSE.md), providing users with the freedom to use, modify, and distribute the software. The MIT License promotes open collaboration and allows for the integration of the project into other software systems. By adopting an open-source license, the project encourages collaboration, innovation, and community engagement in traffic management and optimization efforts.
