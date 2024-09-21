@@ -70,7 +70,7 @@ The Traffic Flow Optimization And Congestion Management project aims to revoluti
 ## Contributors:
 - Abhishek Yadav : [Abhi8459](https://github.com/Abhi8459)
 - Aditya Jadhav :  [Adityasgithubtech](https://github.com/Adityasgithubtech)
-
+- Akanksha Jaiswal : [akanksha-wd](https://github.com/akanksha-wd?tab=overview&from=2024-08-01&to=2024-08-31)
 
 ### License:
 ## Project License
