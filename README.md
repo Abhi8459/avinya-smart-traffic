@@ -19,7 +19,7 @@ The Traffic Flow Optimization And Congestion Management project aims to revoluti
 ## Installation Instructions
 1. Clone the Repository:
    
-   git clone https://github.com/Abhi8459/ignitor-datathon-ksp.git
+   git clone https://github.com/Abhi8459/avinya-smart-traffic.git
 
    
 2. Install Dependencies:
